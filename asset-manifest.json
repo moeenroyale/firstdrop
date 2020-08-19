@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/firstdrop/static/css/main.5114857b.chunk.css",
+    "main.js": "/firstdrop/static/js/main.b10551f1.chunk.js",
+    "main.js.map": "/firstdrop/static/js/main.b10551f1.chunk.js.map",
+    "runtime-main.js": "/firstdrop/static/js/runtime-main.bbe39d28.js",
+    "runtime-main.js.map": "/firstdrop/static/js/runtime-main.bbe39d28.js.map",
+    "static/js/2.757cae65.chunk.js": "/firstdrop/static/js/2.757cae65.chunk.js",
+    "static/js/2.757cae65.chunk.js.map": "/firstdrop/static/js/2.757cae65.chunk.js.map",
+    "index.html": "/firstdrop/index.html",
+    "precache-manifest.99e3bc98c7448fd9e32b90dd12200579.js": "/firstdrop/precache-manifest.99e3bc98c7448fd9e32b90dd12200579.js",
+    "service-worker.js": "/firstdrop/service-worker.js",
+    "static/css/main.5114857b.chunk.css.map": "/firstdrop/static/css/main.5114857b.chunk.css.map",
+    "static/js/2.757cae65.chunk.js.LICENSE.txt": "/firstdrop/static/js/2.757cae65.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/firstdrop/static/media/logo.eba58014.svg",
+    "static/media/powder.jpg": "/firstdrop/static/media/powder.32ffa381.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbe39d28.js",
+    "static/js/2.757cae65.chunk.js",
+    "static/css/main.5114857b.chunk.css",
+    "static/js/main.b10551f1.chunk.js"
+  ]
+}
